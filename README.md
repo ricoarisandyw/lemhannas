@@ -16,3 +16,7 @@ Coba cek
 
 Buat file .env di root folder kemudian copy ini
 # https://gist.github.com/ricoarisandyw/d1d21825084acb80df0fb8bff2bacd0c
+
+
+REFERENCE: 
+https://www.notion.so/In-House-Training-4120ca57527947c4acdcf68a6b084070
