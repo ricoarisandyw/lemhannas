@@ -1,5 +1,7 @@
 di htdocs
 # git clone https://github.com/ricoarisandyw/lemhannas.git
+yang sudah install composer
+# composer create-project laravel/laravel your-project-name 4.2.*
 
 # INSTALL COMPOSER in Windows
 # https://getcomposer.org/Composer-Setup.exe
