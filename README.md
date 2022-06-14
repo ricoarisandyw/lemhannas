@@ -1,1 +1,1 @@
-# https://github.com/ricoarisandyw/lemhannas.git
+# git clone https://github.com/ricoarisandyw/lemhannas.git
